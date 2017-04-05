@@ -1,0 +1,9 @@
+{
+    "name": "Doodle",
+    "description": "Collaborative whiteboard",
+    "author": "Praharsh Jain",
+    "dependencies": {
+        "express": "4.x",
+        "socket.io": "*"
+    }
+}
