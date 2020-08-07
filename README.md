@@ -1,6 +1,6 @@
 Doodle
 ========== 
-A collaborative whiteboard using node.js and socket.io  
+A realtime collaborative whiteboard using node.js and socket.io  
 
 Usage
 ----------------
